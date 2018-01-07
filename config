@@ -275,4 +275,3 @@ bindsym $mod+c exec urxvt -e cmus
 bindsym $mod+p exec urxvt -e vis
 bindsym $mod+d exec rofi -show run -padding 400 -width 1600 -font "System San Francisco Display 12"
 bindsym XF86WebCam exec xfce4-screenshooter
-bindsym $mod+Shift+w exec firefox
