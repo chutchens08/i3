@@ -267,7 +267,7 @@ new_window 1pixel
 # Applications
 bindsym $mod+g exec emacs
 bindsym $mod+i exec vivaldi-stable
-bindsym $mod+q exec exec urxvt -e ranger
+bindsym $mod+q exec qpdfview
 bindsym $mod+Shift+h exec urxvt -e gtop
 bindsym XF86Display exec arandr
 bindsym $mod+Shift+v exec urxvt -e alsamixer
